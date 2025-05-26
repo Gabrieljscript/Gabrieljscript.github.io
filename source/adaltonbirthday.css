@@ -58,3 +58,9 @@ h1 {
   margin-top: 0px;
   font-size: 50px;
 }
+body {
+  background: linear-gradient(to left top, red, yellow, blue);
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
